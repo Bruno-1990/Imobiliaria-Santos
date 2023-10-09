@@ -1,0 +1,178 @@
+body{
+    margin: 0px;    
+}
+div{
+    text-align: center;
+    font-family: tahoma;
+}
+.header{
+    background-color: #B0DDFC;
+    height: 270px;
+}
+.header img{
+    width: 200px;
+}
+.header a{
+    margin: 0 10px;
+    font-weight: 500;   
+}
+
+
+
+
+.destacado{
+    font-weight: bold;
+}
+
+h1{
+    font-size: 2em;
+}
+h2{
+    font-size: 1.5em;
+}
+
+p, .lista{
+    font-size: 1.25em;
+}
+
+img{
+    width: 60%;
+}
+
+.secao3, .secao5{
+    width: 65%; 
+}
+
+
+
+.secao2{    
+    margin: 20px auto;
+}
+.secao2 img{
+    margin: 20px auto;
+    width: 95%;   
+}
+
+
+
+
+
+.secao3{  
+   margin: 0px auto;
+
+}
+    
+.secao3 h1{
+    font-family: tahoma;   
+    margin-bottom: 0;
+   
+    
+}
+.secao3 h2{
+    color: #298bcc;
+    font-family: arial;
+    font-weight: 300;  
+    margin-top: 0; 
+    
+}
+
+.secao3 p{
+    text-align: justify;
+    line-height: 150%;
+    
+}
+.secao3 .destacado{
+    color: #298bcc;
+    
+}
+.secao3 img{
+    width: 60%;
+}
+
+.secao4{
+    background-color: #1D80C1;
+    width: 100%;
+    height: 70vh;
+    color: white;
+    display: block;
+   
+}
+.secao4 h2 {   
+    margin-top: 20px;
+    padding-top: 40px;
+    
+      
+}
+.secao4 p{
+    text-align: center;
+    width: 42%;
+    margin: 0 auto;
+    line-height: 200%;  
+    
+
+}
+.secao4 .destacado{
+    color:yellow;
+
+}
+.lista{
+    margin: 30px auto;
+    width: 11%;
+    text-align: left;
+    line-height: 200%;
+    
+}
+
+
+
+.secao5{
+    margin: 30px auto;    
+}
+
+.secao5 span{
+    color: #298bcc;
+}
+
+
+
+
+.secao6{
+    background-color: #298bcc;
+    width: 100%;
+    margin: 20px auto;
+    height: 50rem;
+}
+
+.secao6 h2{
+    padding-top: 30px;
+    color: white;
+    margin: 20px auto;
+}
+ iframe{
+    width: 60%;
+    height: 30em;
+ }
+.secao6 p{
+    background-color: black;
+    width: 60em;
+    margin: 20px auto;
+    color: azure;
+    border-radius: 30px;
+    padding: 15px 5px;
+    font-family: arial;
+    font-size: 1em;
+}
+    
+ul{
+    line-height: 2.2em;
+}
+
+.secao6 a{
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    box-shadow: 3px 3px 5px rgb(51, 41, 41);
+}
+.secao6 .destacado{
+    color: yellow;
+}
